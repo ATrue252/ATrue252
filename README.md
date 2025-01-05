@@ -2,9 +2,9 @@
   
   <a href="https://linkedin.com/in/alex-williams-95b15332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 👀 I’m interested in learing more about real-world Cybersecurity experience. With my profound interest in Technology and progression my tech portfolio.
+- 👀 I’m interested in learning more about real-world Cybersecurity experience with my profound interest in Technology and progression my tech portfolio.
 
-- 🌱 I’m currently learning new cybersecurity projects. Technical and non-technical. From SIEM Implementation to Capture the Flag to GRC labs. 
+- 🌱 I’m currently learning new cybersecurity projects, Technical and non-technical, From SIEM Implementation to Capture the Flag to GRC labs. 
   
 - 💞️ I’m looking to collaborate on projects and homelabs. Gaining hands on experience extending my knowledge and experience in Cyber Security. 
 
